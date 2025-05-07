@@ -1,0 +1,4 @@
+gym==0.25.0
+mujoco==2.3.3
+torch==2.0.0
+imageio
